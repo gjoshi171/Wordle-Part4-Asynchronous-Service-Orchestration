@@ -1,11 +1,11 @@
 #Project : Wordle-Part4-Asynchronous-Service-Orchestration
 
-Project 5 - Group Created by
+Project 4 - Group Created by
 Armanul Ambia,
 Gaurav Joshi,
 Steven Tran
 
-Project 4 Dependencies Created by
+Project 3 Dependencies Created by
 Gaurav Joshi,
 Akhila Stanly,
 Usman Qazi
